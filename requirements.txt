@@ -4,4 +4,4 @@ python-multipart
 opencv-python
 numpy
 Pillow
-inference_sdk
+git+https://github.com/roboflow/inference.git
